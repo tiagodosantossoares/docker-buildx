@@ -1,2 +1,2 @@
 FROM docker:latest
-RUN docker buildx install
+#RUN docker buildx install
